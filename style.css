@@ -31,7 +31,7 @@
     width: 275px;
     height: 275px;
     background-color: hsl(218, 44%, 22%);
-    background-image: url(../qr-code-component-main/images/image-qr-code.png);
+    background-image: url(../image-qr-code.png);
     background-repeat: no-repeat;
     background-size: contain;
     border: none;
