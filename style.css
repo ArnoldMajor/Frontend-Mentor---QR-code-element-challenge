@@ -30,8 +30,8 @@
 .qr-code {
     width: 275px;
     height: 275px;
-    background-color: hsl(218, 44%, 22%);
-    background-image: url(../https://github.com/ArnoldMajor/Frontend-Mentor---QR-code-element-challenge/blob/main/image-qr-code.png);
+    /*background-color: hsl(218, 44%, 22%);*/
+    background-image: url(https://github.com/ArnoldMajor/Frontend-Mentor---QR-code-element-challenge/blob/main/image-qr-code.png);
     background-repeat: no-repeat;
     background-size: contain;
     border: none;
